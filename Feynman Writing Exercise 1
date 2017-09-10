@@ -1,9 +1,24 @@
-Variables - Variables are simply items that hold information in memory. The data stored could be a number, or a value, or a string of characters. Whatever information is placed in a variable can then be easily accessed by recalling the variable.
+Variables - Variables are simply items that hold information in memory. The data stored could be a
+number, or a value, or a string of characters. Whatever information is placed in a variable can then
+be easily accessed by recalling the variable.
 
-Strings - Strings are chains of data placed together. For example, a full sentence of text such as "This is an explanation of a string", when stored as a string, could then be recalled easily anytime you wanted to use that sentence. Strings can contain numbers, letters and characters. Strings are also easy to modify and change.
+Strings - Strings are chains of data placed together. For example, a full sentence of text such as
+"This is an explanation of a string", when stored as a string, could then be recalled easily anytime you
+ wanted to use that sentence. Strings can contain numbers, letters and characters. Strings are also easy
+ to modify and change.
 
-Functions - Functions are just chunks of code that can be easily repeated by using the function's name. If you write a code that you can see yourself using multiple times, storing it as a function can save you from having to repeatedly write the same code. You can instead just call the function by name and it will run. Functions use an input value called an argument in order to run, and based off of the code inside, will give a result, which we refer to as returning.
+Functions - Functions are just chunks of code that can be easily repeated by using the function's name.
+ If you write a code that you can see yourself using multiple times, storing it as a function can save
+ you from having to repeatedly write the same code. You can instead just call the function by name and
+ it will run. Functions use an input value called an argument in order to run, and based off of the
+ code inside, will give a result, which we refer to as returning.
 
-If Statements - If statement are an easy way to tell a program to run a line of code only when specific conditions are met. A good analogy would be waking up and deciding to go for a run. If it's raining you decide not to go, if it's sunny, you do. You can also use multiple if statements to address several conditions. Maybe you don't mind getting a little wet. So instead you decide that your decision will be if it's raining AND it's below 60 degrees, you'll stay inside. That's what an If statement does.
+If Statements - If statement are an easy way to tell a program to run a line of code only when specific
+conditions are met. A good analogy would be waking up and deciding to go for a run. If it's raining you
+decide not to go, if it's sunny, you do. You can also use multiple if statements to address several
+conditions. Maybe you don't mind getting a little wet. So instead you decide that your decision will be
+if it's raining AND it's below 60 degrees, you'll stay inside. That's what an If statement does.
 
-Boolean Values - A Boolean value is a simple value best imagined as any value you can think of with only two outcomes. A light switch can only be off or on. Something is either true or false. Black or white. Yes or no. All of these would be the equivalent of a Boolean value.
+Boolean Values - A Boolean value is a simple value best imagined as any value you can think of with only
+two outcomes. A light switch can only be off or on. Something is either true or false. Black or white.
+Yes or no. All of these would be the equivalent of a Boolean value.
